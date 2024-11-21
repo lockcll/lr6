@@ -3,6 +3,7 @@ import linecache
 import sys
 
 #Внесены изменения 1
+#Внесены изменения 2
 def gomenu():
     menu = Main()
     switch.addWidget(menu)
