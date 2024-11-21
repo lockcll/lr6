@@ -3,6 +3,7 @@ import linecache
 import sys
 
 #Внесены изменения 3
+#Внесены изменения 4
 
 def gomenu():
     menu = Main()
