@@ -2,6 +2,7 @@ from PySide6 import QtGui, QtCore, QtSql, QtWidgets
 import linecache
 import sys
 
+#Внесены изменения 3
 
 def gomenu():
     menu = Main()
